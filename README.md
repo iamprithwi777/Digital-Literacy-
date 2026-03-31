@@ -16,10 +16,11 @@ Goal: Establish a foundational professional identity across academic and industr
 Contents: Screenshots of updated profiles on LinkedIn and GitHub, including a customized profile README.  
 3. Coding & Cloud Collaboration (/task-3-platforms)
 Goal: Familiarization with technical practice platforms and collaborative tools.  
-Contents: Proof of a completed coding challenge and a "Digital Literacy Awareness Quiz" created via Google Forms.  
-4. Professional Communication (/task-4-email-etiquette)
+Contents: Proof of a completed coding challenge and a "Digital Literacy Awareness Quiz" created via Google Forms.
+Quiz Link : https://forms.gle/hRi6LGAtTrsH9cPQ8
+5. Professional Communication (/task-4-email-etiquette)
 Goal: Mastering formal email structures and responsible social media conduct.  
 Contents: Professional email drafts for faculty and industry, plus a social media "Do's and Don'ts" checklist.  
-5. Cybercrime Awareness (/task-5-cybercrime)
+6. Cybercrime Awareness (/task-5-cybercrime)
 Goal: Researching online threats and providing actionable prevention steps.  
 Contents: A detailed case study on cyber threats and a safety checklist featuring the National Cyber Crime reporting channels.
